@@ -6,6 +6,9 @@ The Background of the interface changes accordingly, as per the climate changes.
 
 To use the API, create an account on the website mentioned above and issue yourself an API Key, and then, 
 
+![image](https://user-images.githubusercontent.com/38183787/89282300-f561ed80-d668-11ea-9232-e4accd3f11b7.png)
+
+
 ![Screenshot 2020-06-29 at 8 14 15 PM](https://user-images.githubusercontent.com/37113163/86020132-238a5700-ba45-11ea-8678-557aa4431917.png)
 
 
